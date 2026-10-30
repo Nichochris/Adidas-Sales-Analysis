@@ -56,7 +56,6 @@ It contains Adidas sales records used to analyze business performance across dif
 
 [View the Adidas Sales Dataset on Kaggle](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training)
 
-*Note: Replace the link above with the exact Kaggle dataset page you downloaded the data from.*
 ## 🔍 Data Analysis Process
 
 ### 1. 🧹 Data Preparation
